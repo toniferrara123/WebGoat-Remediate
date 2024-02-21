@@ -314,8 +314,8 @@
     </dependency>
     <dependency>
       <groupId>org.hsqldb</groupId>
-      <artifactId>hsqldb</artifactId><version>2.5.2</version>
-      <artifactId>hsqldb</artifactId>
+    <artifactId>hsqldb</artifactId>
+      <version>2.5.2</version>
     </dependency>
     <dependency>
       <groupId>org.jsoup</groupId>
